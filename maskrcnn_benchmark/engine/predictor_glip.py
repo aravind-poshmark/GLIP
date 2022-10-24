@@ -137,7 +137,7 @@ class GLIPDemo(object):
             thresh=0.5,
             custom_entity = None,
             alpha = 0.0,
-            color = 255):
+            color = 128):
         
         self.color = color
 
